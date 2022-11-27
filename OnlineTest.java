@@ -1,5 +1,3 @@
-/*Online Java Paper Test*/
-/*Owner DieHardTechy */
 
 import java.awt.*;
 import java.awt.event.*;
@@ -180,7 +178,7 @@ class OnlineTest extends JFrame implements ActionListener
 	}
 	public static void main(String s[])
 	{
-		new OnlineTest("Online Test Of Java By DieHardTechy");
+		new OnlineTest("Online Test Of Java By Blah");
 	}
 
 
